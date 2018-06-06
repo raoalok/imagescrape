@@ -12,9 +12,9 @@ Next follow these steps.
 
 git clone https://github.com/raoalok/imagescrape or download repository on your machine.
 
-Then install all the node dependencies using ' npm install '*
+Then install all the node dependencies using `npm install`
 
-Then install pm2 using ' npm install pm2 -g '* & then run using ' pm2 start server.js '*
+Then install pm2 using `npm install pm2 -g ` & then run using `pm2 start server.js`
 
 Open the server at http://localhost:3000
 
